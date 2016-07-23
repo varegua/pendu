@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Pendu {
-	
+	private int pom;
 	private String motATrouver;
 	private char [] motEnCours;
 	private int pendu;
